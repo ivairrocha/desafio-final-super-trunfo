@@ -28,4 +28,4 @@ Cada carta possui:
 A soma de **poder + defesa** determina a carta vencedora.
 
 ---
-Feito por Vavá Mc ✌️
+Feito por Ivair Rocha  ✌️
